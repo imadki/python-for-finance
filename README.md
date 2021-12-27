@@ -6,6 +6,8 @@
 </p>
 <h1 align="center"> Python For Finance </h1>
 
+made by me
+
 ## Overview
 The financial industry is increasingly adopting Python for general purpose programming and quantitative analysis, ranging from
 understanding trading dynamics to risk management systems.
